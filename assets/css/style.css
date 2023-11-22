@@ -19,9 +19,15 @@ header .text{
 }
 
 
+main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
 
 .card-container{
-   
+   height: 100%;
     width: 100%;
     background-color: black;
     display: flex;
@@ -33,7 +39,7 @@ header .text{
 
 .card{
     width: calc(100% / 7);
-   height: 100px;
+   height: 10%;
 }
 
 .card-container .card img{
