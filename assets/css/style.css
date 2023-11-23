@@ -52,7 +52,7 @@ main{
     align-content: start;
     padding: 20px;
     justify-content: center;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .card{
